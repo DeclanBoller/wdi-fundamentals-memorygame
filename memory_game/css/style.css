@@ -25,6 +25,16 @@ a {
   transition: 0.4s all ease-in-out;
 }
 
+button {
+  border: none;
+  color: #fff;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 18px;
+  background: black;
+  text-transform: uppercase;
+}
+
 a:hover {
   border-bottom: 2px solid #eee;
 }
